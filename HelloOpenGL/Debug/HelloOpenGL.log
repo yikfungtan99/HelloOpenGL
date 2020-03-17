@@ -1,0 +1,62 @@
+﻿  main.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\shared\minwindef.h(130,1): warning C4005: 'APIENTRY': macro redefinition
+C:\Users\Tan Yik Fung\Downloads\glfw-3.3.2.bin.WIN32\glfw-3.3.2.bin.WIN32\include\GLFW\glfw3.h(123): message : see previous definition of 'APIENTRY'
+C:\Users\Tan Yik Fung\source\repos\HelloOpenGL\HelloOpenGL\vector.h(141,14): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\Tan Yik Fung\source\repos\HelloOpenGL\HelloOpenGL\matrix.h(189,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Tan Yik Fung\source\repos\HelloOpenGL\HelloOpenGL\matrix.h(190,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Tan Yik Fung\source\repos\HelloOpenGL\HelloOpenGL\triangle_demo.h(438,16): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Tan Yik Fung\source\repos\HelloOpenGL\HelloOpenGL\triangle_demo.h(732,1): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\Tan Yik Fung\source\repos\HelloOpenGL\HelloOpenGL\triangle_demo.h(774,1): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Tan Yik Fung\source\repos\HelloOpenGL\HelloOpenGL\triangle_demo.h(790,67): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Tan Yik Fung\source\repos\HelloOpenGL\HelloOpenGL\triangle_demo.h(791,90): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Tan Yik Fung\source\repos\HelloOpenGL\HelloOpenGL\triangle_demo.h(791,73): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Tan Yik Fung\source\repos\HelloOpenGL\HelloOpenGL\triangle_demo.h(791,56): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Tan Yik Fung\source\repos\HelloOpenGL\HelloOpenGL\triangle_demo.h(801,71): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Tan Yik Fung\source\repos\HelloOpenGL\HelloOpenGL\triangle_demo.h(802,95): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Tan Yik Fung\source\repos\HelloOpenGL\HelloOpenGL\triangle_demo.h(802,78): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Tan Yik Fung\source\repos\HelloOpenGL\HelloOpenGL\triangle_demo.h(802,60): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Tan Yik Fung\source\repos\HelloOpenGL\HelloOpenGL\triangle_demo.h(810,71): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Tan Yik Fung\source\repos\HelloOpenGL\HelloOpenGL\triangle_demo.h(811,95): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Tan Yik Fung\source\repos\HelloOpenGL\HelloOpenGL\triangle_demo.h(811,78): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Tan Yik Fung\source\repos\HelloOpenGL\HelloOpenGL\triangle_demo.h(811,60): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Tan Yik Fung\source\repos\HelloOpenGL\HelloOpenGL\triangle_demo.h(819,71): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Tan Yik Fung\source\repos\HelloOpenGL\HelloOpenGL\triangle_demo.h(820,95): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Tan Yik Fung\source\repos\HelloOpenGL\HelloOpenGL\triangle_demo.h(820,78): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Tan Yik Fung\source\repos\HelloOpenGL\HelloOpenGL\triangle_demo.h(820,60): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Tan Yik Fung\source\repos\HelloOpenGL\HelloOpenGL\triangle_demo.h(830,67): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Tan Yik Fung\source\repos\HelloOpenGL\HelloOpenGL\triangle_demo.h(831,90): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Tan Yik Fung\source\repos\HelloOpenGL\HelloOpenGL\triangle_demo.h(831,73): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Tan Yik Fung\source\repos\HelloOpenGL\HelloOpenGL\triangle_demo.h(831,56): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Tan Yik Fung\source\repos\HelloOpenGL\HelloOpenGL\triangle_demo.h(839,1): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Tan Yik Fung\source\repos\HelloOpenGL\HelloOpenGL\triangle_demo.h(840,1): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Tan Yik Fung\source\repos\HelloOpenGL\HelloOpenGL\triangle_demo.h(854,1): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Tan Yik Fung\source\repos\HelloOpenGL\HelloOpenGL\triangle_demo.h(883,1): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Tan Yik Fung\source\repos\HelloOpenGL\HelloOpenGL\triangle_demo.h(884,1): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Tan Yik Fung\source\repos\HelloOpenGL\HelloOpenGL\triangle_demo.h(895,1): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Tan Yik Fung\source\repos\HelloOpenGL\HelloOpenGL\triangle_demo.h(896,1): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Tan Yik Fung\source\repos\HelloOpenGL\HelloOpenGL\triangle_demo.h(908,1): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Tan Yik Fung\source\repos\HelloOpenGL\HelloOpenGL\triangle_demo.h(909,1): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Tan Yik Fung\source\repos\HelloOpenGL\HelloOpenGL\triangle_demo.h(919,1): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Tan Yik Fung\source\repos\HelloOpenGL\HelloOpenGL\triangle_demo.h(920,1): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Tan Yik Fung\source\repos\HelloOpenGL\HelloOpenGL\triangle_demo.h(934,1): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Tan Yik Fung\source\repos\HelloOpenGL\HelloOpenGL\triangle_demo.h(935,1): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Tan Yik Fung\source\repos\HelloOpenGL\HelloOpenGL\triangle_demo.h(947,1): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Tan Yik Fung\source\repos\HelloOpenGL\HelloOpenGL\triangle_demo.h(948,1): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Tan Yik Fung\source\repos\HelloOpenGL\HelloOpenGL\triangle_demo.h(960,1): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Tan Yik Fung\source\repos\HelloOpenGL\HelloOpenGL\triangle_demo.h(961,1): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Tan Yik Fung\source\repos\HelloOpenGL\HelloOpenGL\triangle_demo.h(973,1): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Tan Yik Fung\source\repos\HelloOpenGL\HelloOpenGL\triangle_demo.h(974,1): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Tan Yik Fung\source\repos\HelloOpenGL\HelloOpenGL\triangle_demo.h(986,1): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Tan Yik Fung\source\repos\HelloOpenGL\HelloOpenGL\triangle_demo.h(987,1): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Tan Yik Fung\source\repos\HelloOpenGL\HelloOpenGL\triangle_demo.h(999,1): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Tan Yik Fung\source\repos\HelloOpenGL\HelloOpenGL\triangle_demo.h(1000,1): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Tan Yik Fung\source\repos\HelloOpenGL\HelloOpenGL\triangle_demo.h(1020,23): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Tan Yik Fung\source\repos\HelloOpenGL\HelloOpenGL\triangle_demo.h(1027,24): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Tan Yik Fung\source\repos\HelloOpenGL\HelloOpenGL\triangle_demo.h(1081,1): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\Tan Yik Fung\source\repos\HelloOpenGL\HelloOpenGL\main.cpp(39,11): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Tan Yik Fung\source\repos\HelloOpenGL\HelloOpenGL\main.cpp(40,11): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Tan Yik Fung\source\repos\HelloOpenGL\HelloOpenGL\main.cpp(44,14): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Tan Yik Fung\source\repos\HelloOpenGL\HelloOpenGL\main.cpp(45,14): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Tan Yik Fung\source\repos\HelloOpenGL\HelloOpenGL\main.cpp(46,10): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Tan Yik Fung\source\repos\HelloOpenGL\HelloOpenGL\main.cpp(46,21): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  HelloOpenGL.vcxproj -> C:\Users\Tan Yik Fung\source\repos\HelloOpenGL\Debug\HelloOpenGL.exe
